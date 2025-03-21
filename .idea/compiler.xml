@@ -9,8 +9,5 @@
         <module name="StringManipulationService" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="StringManipulationService" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>

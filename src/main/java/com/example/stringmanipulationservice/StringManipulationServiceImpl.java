@@ -1,6 +1,6 @@
 package com.example.stringmanipulationservice;
 
-import javax.jws.WebService;
+import jakarta.jws.WebService;
 
 @WebService(endpointInterface = "com.example.StringManipulationService")
 public class StringManipulationServiceImpl implements StringManipulationService {

@@ -1,7 +1,6 @@
 package com.example.stringmanipulationservice;
 
-import javax.jws.webMethod;
-import javax.jws.webService;
+import jakarta.jws.WebMethod;
 
 public interface StringManipulationService {
     @WebMethod
